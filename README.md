@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Currently I have 3 Projects
+  * [Bibliotheca](https://bibliotheca.onrender.com/)
+  * [Barebnb](https://barebnb.onrender.com/)
+  * [Dithcord](https://dithcord.onrender.com/)
+
 <!--
 **EthanSafari/EthanSafari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
