@@ -1,5 +1,5 @@
 ### Hi there 👋
-![IMG_8953](https://user-images.githubusercontent.com/94498213/219107468-1bf884dd-bb74-424e-8415-d580907559f6.jpg)
+<!-- ![IMG_8953](https://user-images.githubusercontent.com/94498213/219107468-1bf884dd-bb74-424e-8415-d580907559f6.jpg) -->
 
 
 Currently I have 3 Projects
