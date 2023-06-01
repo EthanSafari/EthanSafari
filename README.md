@@ -15,7 +15,7 @@
  </div
 <div align="center">
  <a href="https://www.codewars.com/users/EthanSafari">
- <img src="https://www.codewars.com/users/EthanSafari/badges/large" alt="CodeWars" />
+<!--  <img src="https://www.codewars.com/users/EthanSafari/badges/large" alt="CodeWars" /> -->
   </href>
  </div>
   <div id="badges" align="center">
